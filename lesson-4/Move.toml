@@ -1,0 +1,12 @@
+[package]
+name = "intro_df"
+version = "0.0.1"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework", rev = "devnet" }
+sui-capybaras = { git = "https://github.com/MystenLabs/sui.git", subdir = "sui_programmability/examples/capy", rev = "devnet" }
+
+[addresses]
+intro_df =  "0x0"
+sui =  "0000000000000000000000000000000000000002"
+capy = "0x0"
