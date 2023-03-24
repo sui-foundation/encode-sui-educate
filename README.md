@@ -9,7 +9,7 @@ An educational series about the Sui ecosystem, taking place from February throug
 - [**Lesson Three: Intro to Sui Objects and Creating Your First NFT Project**](./lesson-3/)
 - [**Lesson Four: Introduction to Dynamic Objects + Best Design Practices**](./lesson-4/)
 - [**Lesson Five: Project Showcase: On-Chain RPG - Part 1**](./lesson-5/)
-- **Lesson Six: Project Showcase: On-Chain RPG - Part 2**
+- [**Lesson Six: Project Showcase: On-Chain RPG - Part 2**](./lesson-6/)
 
 ## General Developer Resources
 
