@@ -1,6 +1,6 @@
 # Encode x Sui Educate
 
-An educational series about the Sui ecosystem, taking place from February through March 2023!
+A [YouTube educational series about the Sui ecosystem](https://www.youtube.com/watch?v=fZRk1E4XmJo&list=PLfEHHr3qexv_aE7p6oDyVtD3WQsDsJngr&ab_channel=EncodeClub) created in March 2023 by [@0xShayan](https://twitter.com/0xShayan) in collaboration with [Encode Club](https://www.encode.club/).
 
 ## Content
 
@@ -22,7 +22,7 @@ An educational series about the Sui ecosystem, taking place from February throug
 
 ## Socials and Communities
 
-If you want to join Sui's online communities, you can join via following links:
+If you want to join Sui's online communities, you can join via the following links:
 
 - [Sui Network Twitter](https://twitter.com/SuiNetwork)
 - [Sui Official Discord](https://discord.gg/sui)
